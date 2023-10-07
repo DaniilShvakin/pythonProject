@@ -1,4 +1,4 @@
-c = "45.7"
-d= "56"
-e=float(c)+int(d)
+c = input()
+d= input()
+e=float(c)+float(d)
 print(e)
